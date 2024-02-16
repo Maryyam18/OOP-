@@ -1,0 +1,10 @@
+D:\game1\bin\Debug\game1.exe.config
+D:\game1\bin\Debug\game1.exe
+D:\game1\bin\Debug\game1.pdb
+D:\game1\bin\Debug\EZInput.dll
+D:\game1\bin\Debug\EZInput.xml
+D:\game1\obj\Debug\game1.csproj.AssemblyReference.cache
+D:\game1\obj\Debug\game1.csproj.CoreCompileInputs.cache
+D:\game1\obj\Debug\game1.csproj.CopyComplete
+D:\game1\obj\Debug\game1.exe
+D:\game1\obj\Debug\game1.pdb

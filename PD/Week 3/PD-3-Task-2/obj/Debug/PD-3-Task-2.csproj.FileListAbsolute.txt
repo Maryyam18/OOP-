@@ -1,0 +1,7 @@
+D:\PD-3-Task-2\bin\Debug\PD-3-Task-2.exe.config
+D:\PD-3-Task-2\bin\Debug\PD-3-Task-2.exe
+D:\PD-3-Task-2\bin\Debug\PD-3-Task-2.pdb
+D:\PD-3-Task-2\obj\Debug\PD-3-Task-2.csproj.AssemblyReference.cache
+D:\PD-3-Task-2\obj\Debug\PD-3-Task-2.csproj.CoreCompileInputs.cache
+D:\PD-3-Task-2\obj\Debug\PD-3-Task-2.exe
+D:\PD-3-Task-2\obj\Debug\PD-3-Task-2.pdb
