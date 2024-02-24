@@ -8,3 +8,7 @@ D:\game1\obj\Debug\game1.csproj.CoreCompileInputs.cache
 D:\game1\obj\Debug\game1.csproj.CopyComplete
 D:\game1\obj\Debug\game1.exe
 D:\game1\obj\Debug\game1.pdb
+F:\OOP\PD\Week 2\game1\obj\Debug\game1.csproj.AssemblyReference.cache
+F:\OOP\PD\Week 2\game1\obj\Debug\game1.csproj.CoreCompileInputs.cache
+F:\OOP\PD\Week 2\game1\obj\Debug\game1.exe
+F:\OOP\PD\Week 2\game1\obj\Debug\game1.pdb
