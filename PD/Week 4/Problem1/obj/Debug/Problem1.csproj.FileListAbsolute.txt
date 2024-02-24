@@ -1,7 +1,0 @@
-F:\OOP\PD\Week 4\Problem1\bin\Debug\Problem1.exe.config
-F:\OOP\PD\Week 4\Problem1\bin\Debug\Problem1.exe
-F:\OOP\PD\Week 4\Problem1\bin\Debug\Problem1.pdb
-F:\OOP\PD\Week 4\Problem1\obj\Debug\Problem1.csproj.AssemblyReference.cache
-F:\OOP\PD\Week 4\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
-F:\OOP\PD\Week 4\Problem1\obj\Debug\Problem1.exe
-F:\OOP\PD\Week 4\Problem1\obj\Debug\Problem1.pdb
