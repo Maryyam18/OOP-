@@ -1,0 +1,7 @@
+F:\Semester-2\OOP PD\OOP-LAB-6\bin\Debug\OOP-LAB-6.exe.config
+F:\Semester-2\OOP PD\OOP-LAB-6\bin\Debug\OOP-LAB-6.exe
+F:\Semester-2\OOP PD\OOP-LAB-6\bin\Debug\OOP-LAB-6.pdb
+F:\Semester-2\OOP PD\OOP-LAB-6\obj\Debug\Lab-6-Task-1.csproj.AssemblyReference.cache
+F:\Semester-2\OOP PD\OOP-LAB-6\obj\Debug\Lab-6-Task-1.csproj.CoreCompileInputs.cache
+F:\Semester-2\OOP PD\OOP-LAB-6\obj\Debug\OOP-LAB-6.exe
+F:\Semester-2\OOP PD\OOP-LAB-6\obj\Debug\OOP-LAB-6.pdb
